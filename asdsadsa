@@ -1,0 +1,91 @@
+ <html>
+<head>
+<title>
+belal ahmed
+</title>
+</head>
+<body bgcolor="C8BB99" >
+C8BB99
+
+<body text ="4A3838 ">
+
+
+<p> <span style="font-size:55;"><center>بسم الله الرحمن الرحيم</span></center></p>
+<div class="a">
+<span style="font-size:50;"><center>databases</span></center></h1>
+<p><span style="font-size:20;">-did you ever think when you use google and search for anything 
+where does google get all this information </br></br> . well the answer is databases</br> </br>
+
+
+-first to understand databases we have to know two things:</br>
+  
+ <ol>
+<li><span style="font-size:25;">data </span></li>
+<li> <span style="font-size:25;">information </span> </li>
+
+<span style="font-size:25;"> </span>
+</ol>
+<span style="font-size:22;">first data is  different  shapes which represent  facts ,numbers ,letters ,images , and more</span> </br>
+ -<span style="font-size:22;">which processing to get mean from it<span>
+-</br></br>-second information is the data which alredy has processed to useful information</span>
+<table border="1" style="width:100%;">
+	<tr>
+		<td><span style="font-size:30;"><center>data</span></center></td>
+		<td><span style="font-size:30;"><center>information</span></center></td>
+	</tr>
+	<tr>
+		<td>14251654982849</td>
+		<td>ID Number </td>
+	</tr>
+	<tr>
+		<td>rahma ahmed</td>
+		<td>the name of the student who made this website :) </td>
+	</tr>
+</table>
+ok lets explain.</br>  
+databases is collecting and organizing data </br>,so that is easy to exract useful information from it .</br> databases can store information about people, products,requests, etc.</br>,and retrieve them whenever you want to analyze them and convert them
+the importance of databases:
+<ol>
+<li>storing a huge amount of data with different types (texts-numbers-dates)</li>
+<li>performing operation and processingon this data to get out with information</li>
+<li>ease of retrieving information quickly and highly efficiently </li>
+<lithe ability to amend and update this data ></li>
+<li>Achieve a high degree of security and confidentiality of the stored information and keep  It has tampering data</li>
+<li>centralizing data and limiting its frequency so that all data are dealt with</li>
+</ol>
+&nbsp; &nbsp; &nbsp; &nbsp; *tybes of data you can put in databases:
+<ol>
+<li>text </li>
+<li> number </li>
+<li> date/time</li>
+<li>currency </li>
+</ol>
+
+<span style="font-size:25;"> *Database managment system:</span> </br></br></br>
+
+ 
+ Database managment system it's An integrated set of programs that take over the management of the database and control the activities of accessing it and also maintaining it
+<img src ="aa.png">
+<img src ="aa.png">
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
